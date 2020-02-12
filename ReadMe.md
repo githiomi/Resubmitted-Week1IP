@@ -1,5 +1,5 @@
 # ReNU
-#### An app meant to provide you with a menu on your phone or tablet, 2020 Version
+#### An Website aimed at showing you all there is to Daniel Githiomi and what i have been able to achieve within my first week at Moringa!!!
 #### By Daniel Githiomi
 ## Description
 An app meant to provide you with a menu on your phone or tablet in hotels or restaurants!
