@@ -13,7 +13,7 @@ An app meant to provide you with a menu on your phone or tablet in hotels or res
 Double multiplication may become an issue if you stay too long on one page
 
 ## Link to live page
-[This is my link to live pages] https://github.com/githiomi/Week-One-IP
+[This is my link to live pages] https://githiomi.github.io/Resubmitted-Week1IP/
 
 ## Technologies Used
 It is made completly using Java on the Netbeans IDE
